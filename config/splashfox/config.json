@@ -1,0 +1,9 @@
+{
+  "dropHeight": 3.0,
+  "foxSize": 2.0,
+  "speed": 2.0,
+  "flipped": false,
+  "wobbly": true,
+  "imagePath": "splashfox:textures/gui/blobfox.png",
+  "position": "REPLACE_MOJANG"
+}
