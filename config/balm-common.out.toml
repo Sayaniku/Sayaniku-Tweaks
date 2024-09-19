@@ -52,7 +52,7 @@ creativeBreakingSupport = true
 disableLogStripping = false
 
 # This option will disable step assist added by other mods.
-disableStepAssist = true
+disableStepAssist = false
 
 # This prevents the last torch in the offhand from being placed.
 doNotUseLastTorch = false

@@ -133,11 +133,18 @@
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
       "Sayanikukitsune": "https://mc-heads.net/avatar/64a8c02512824c33babb4086f8bf573e",
+      "minecraft.renardetkitsune.fr": "https://api.mcsrvstat.us/icon/minecraft.renardetkitsune.fr",
       "uhcworld.fr": "https://api.mcsrvstat.us/icon/uhcworld.fr",
       "panel.thedrewen.com": "https://api.mcsrvstat.us/icon/panel.thedrewen.com",
       "mcpe.plutonium.best": "https://api.mcsrvstat.us/icon/mcpe.plutonium.best",
       "mps.netherite.gg": "https://api.mcsrvstat.us/icon/mps.netherite.gg",
-      "mps.mc-complex.com": "https://api.mcsrvstat.us/icon/mps.mc-complex.com"
+      "mps.mc-complex.com": "https://api.mcsrvstat.us/icon/mps.mc-complex.com",
+      "mc2.renardetkitsune.fr": "https://api.mcsrvstat.us/icon/mc2.renardetkitsune.fr",
+      "play.hypixel.fr": "https://api.mcsrvstat.us/icon/play.hypixel.fr",
+      "hypixel.net": "https://api.mcsrvstat.us/icon/hypixel.net",
+      "play.hielkemaps.com": "https://api.mcsrvstat.us/icon/play.hielkemaps.com",
+      "bee.mc-complex.com": "https://api.mcsrvstat.us/icon/bee.mc-complex.com",
+      "game.blocaria.fr": "https://api.mcsrvstat.us/icon/game.blocaria.fr"
     },
     "dynamicVariables": {
       "default": "Example Text",
